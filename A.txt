@@ -3,3 +3,5 @@ A= B+C
 X = A
 
 Z = A
+
+w=b
